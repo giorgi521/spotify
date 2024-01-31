@@ -1,6 +1,5 @@
 - [@giorgiGogoladze ( _**`Giorgi`**_ )](https://github.com/giorgi521)
 - Email: gogoladzeg321@gmail.com
-- 
 
 - [TypeScript](https://www.typescriptlang.org) - A typed superset of JavaScript designed with large scale applications in mind
 - [ESLint](https://eslint.org) - Static code analysis to help find problems within a codebase
